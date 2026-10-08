@@ -1,1 +1,8 @@
-
+header{
+    text-align: center;
+    color: white;
+    background-image: url(/Pics/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
