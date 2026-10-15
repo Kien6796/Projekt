@@ -20,6 +20,10 @@ Főoldal, Runeterra kezdete, Régiók, Karakterek
 
 Tőbb section és külön sectionbe grid és cardokba rakva a karakterek és régiók
 
+# Látványkép
+
+![alt text](004b4398-58d0-4c59-861e-20caac29d459.png)
+
 # Runeterra régiói
 
 ## Képanyag
