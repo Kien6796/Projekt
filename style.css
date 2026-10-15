@@ -1,3 +1,49 @@
+body{
+    background-image: url(Pics/917a3f60-54e1-4e0a-a0b2-dd1d65cb104f.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.card {
+    width: 220px;
+    background-color: #101820;
+    color: #eee5d0;
+    border: 1px solid #796644;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.card-img-top {
+    height: 180px;
+    object-fit: cover;
+}
+
+.card-title {
+    color: #d8b878;
+    font-family: Georgia, serif;
+}
+
+.card-text {
+    color: #c1c5cb;
+    font-size: 14px;
+}
+
+.card .btn-primary {
+    background-color: transparent;
+    border-color: #a78a55;
+    color: #d8b878;
+    border-radius: 15px;
+    font-size: 12px;
+}
+
+
+.card:hover {
+    border-color: #d8b878;
+    transform: translateY(-4px);
+}
+
+
 header {
     display: flex;
     align-items: center;
@@ -7,6 +53,7 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
+    border: solid rgb(180, 133, 12) 2px;
 }
 
 header img {
@@ -19,6 +66,7 @@ nav {
     height: 60px;
     align-items: center;
     justify-content: center;
+    border: solid 2px rgb(180, 133, 12);
 }
 
 nav ul li {
@@ -27,7 +75,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: gold;
+    color: rgb(180, 133, 12);
     font-size: larger;
     padding: 30px;
     
@@ -35,4 +83,10 @@ nav ul li a {
 
 nav ul li a:hover{
     color: white;
+}
+
+.container {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.829);
+    border: rgb(180, 133, 12) solid 2px;
 }
