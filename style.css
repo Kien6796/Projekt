@@ -5,8 +5,17 @@ body{
     
 }
 
+h1, p{
+    color:rgb(209, 200, 75);
+}
+hr {
+    border: 1px solid rgb(180, 133, 12);
+    margin: 20px 0;
+}
 .card {
-    width: 220px;
+    width: 100%;
+    max-width: 220px;
+    margin: auto;
     background-color: #101820;
     color: #eee5d0;
     border: 1px solid #796644;
@@ -21,7 +30,6 @@ body{
 
 .card-title {
     color: #d8b878;
-    font-family: Georgia, serif;
 }
 
 .card-text {
@@ -39,7 +47,7 @@ body{
 
 
 .card:hover {
-    border-color: #d8b878;
+    border-color: #d4b067;
     transform: translateY(-4px);
 }
 
@@ -87,6 +95,7 @@ nav ul li a:hover{
 
 .container {
     display: flex;
+    flex-direction: column;
     background-color: rgba(0, 0, 0, 0.829);
     border: rgb(180, 133, 12) solid 2px;
 }
