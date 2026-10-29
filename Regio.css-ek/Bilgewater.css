@@ -1,0 +1,93 @@
+body{
+    background-image: url(../Pics/Bilgewater.background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+h1, p, h5{
+    color:white;
+    text-align: center;
+}
+hr {
+    border: 3px solid black;
+    margin: 20px 0;
+}
+
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    border: solid black  2px;
+}
+
+header img {
+    height: 300px;
+}
+
+nav {
+    display: flex;
+    background-color: rgb(15, 31, 12);
+    height: 60px;
+    align-items: center;
+    border: solid 2px black ;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(155, 153, 153);
+    font-size: larger;
+    padding: 30px;
+    
+}
+
+nav ul li a:hover{
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(15, 46, 16, 0.884);
+    border:black solid 2px;
+}
+
+.region-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+footer {
+    padding: 16px;
+    background-color: black;
+    border-top: 2px solid black;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    color: rgb(209, 200, 75);
+}
+
+.region-image1 {
+    padding-top:8px;
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+
