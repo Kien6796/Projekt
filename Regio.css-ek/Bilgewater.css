@@ -62,7 +62,7 @@ nav ul li a:hover{
     border:black solid 2px;
 }
 
-.region-image {
+.region-img {
     display: block;
     width: 100%;
     height: 100%;
@@ -81,7 +81,7 @@ footer p {
     color: rgb(209, 200, 75);
 }
 
-.region-image1 {
+.region-img1 {
     padding-top:8px;
     display: block;
     width: 100%;

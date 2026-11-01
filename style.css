@@ -110,3 +110,17 @@ footer p {
     margin: 0;
     color: rgb(209, 200, 75);
 }
+
+.karakter {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid rgb(180, 133, 12);
+}
+
+.szöveg {
+    color: white;
+    font-size: 16px;
+}
