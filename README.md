@@ -25,6 +25,8 @@ A kezdőlapról az alábbi régiók külön oldalai nyithatók meg:
 
 Az egyes oldalakról a **Vissza** hivatkozással lehet a kezdőlapra jutni.
 
+Először készítettem egy regio.html ami az alapja mindegyiknek és onnan alakítottam át
+
 ### Karakterek
 
 A karaktereket egy bootstrap v5.0 carousel-el oldottam meg
@@ -40,7 +42,7 @@ A bootstrap az adott kártyáknál meg a carouselnél, Html maga a weboldal és 
 
 
 ## Forrás
-- Szöveg: Saját megfogalmazás és youtube
+- Szöveg: Saját megfogalmazás és youtube [Forrás](forrás.txt)
 - Információk: [League of Legends Universe](https://universe.leagueoflegends.com/hu_HU/).
 - A weboldalon felhasznált képek: [Pics mappa](Pics/).
 - Az oldalam linkje: [Projekt](https://kien6796.github.io/Projekt/)
